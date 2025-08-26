@@ -1,1 +1,5 @@
-oi
+git config user.name
+
+git config --global user.name "laramuniz646"
+
+git config --global user.email "laraedurdalara@gmail.com "
